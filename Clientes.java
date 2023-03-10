@@ -1,6 +1,6 @@
 public class Clientes {
     private String nome;
-    private String cpf;
+    private String cnh_nicolas;
     private int agencia;
     private double saldo;
 }
